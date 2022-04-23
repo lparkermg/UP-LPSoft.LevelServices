@@ -1,0 +1,12 @@
+{
+    "name":"com.lpsoft.level-service",
+    "version": "1.0.0",
+    "description": "A basic level service which handles tile based systems.",
+    "displayName": "Level Service",
+    "unity": "2021.2",
+    "author": {
+        "name": "Luke Parker",
+        "url": "https://mrlparker.com"
+    },
+    "keywords": ["Level", "Service"]
+}
